@@ -1,0 +1,7 @@
+import time
+time.sleep(5)
+
+Ta del kode je "delay", ki pomeni čez koliko časa (v sekundah) 
+se naj program zapre. Dodal sem ga zato, ker kadar zaženem prosto Python 
+aplikacijo (ne skozi PyCharm, ampak iz namizja) se programsko okno hitro
+zapre, brez da bi se pokazal rezultat.
